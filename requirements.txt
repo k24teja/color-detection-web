@@ -3,3 +3,4 @@ opencv-python
 numpy
 gunicorn
 gunicorn==21.2.0
+Pillow
